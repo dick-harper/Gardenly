@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gardenly.Services", "Garden
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gardenly.Repository", "Gardenly.Repository\Gardenly.Repository.csproj", "{A9866CE0-E0E6-44EA-851C-9D42A33DED06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gardenly.Test", "Gardenly.Test\Gardenly.Test.csproj", "{D96403E5-BB3F-453C-9859-67D719B0AD97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A9866CE0-E0E6-44EA-851C-9D42A33DED06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9866CE0-E0E6-44EA-851C-9D42A33DED06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9866CE0-E0E6-44EA-851C-9D42A33DED06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96403E5-BB3F-453C-9859-67D719B0AD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96403E5-BB3F-453C-9859-67D719B0AD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96403E5-BB3F-453C-9859-67D719B0AD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96403E5-BB3F-453C-9859-67D719B0AD97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
